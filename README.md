@@ -6,7 +6,7 @@
 
 - Looking forward to collaborate on **Open Source Projects**
 
-- 👨‍💻 Currently working on **[Weather Forecasting](https://github.com/pragyamahajan/Weather-forecasting)**
+- 👨‍💻 Currently working on **[PAT Index Calculator](https://github.com/pragyamahajan/PAT-Index-frontend)**
 
 - 📫 Reach 👇<br>
 
@@ -38,25 +38,19 @@
 - 💻🔌 Off Github ***I Watch, I Listen, I Eat:)***
 <!-- https://github.com/pragyamahajan/github-readme-stats -->
 
-  <summary style="text-align : center"><b>💻 GitHub Profile Stats</b>
-  <br/>
-<!--     <a href="https://github.com/devesh2511/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=devesh2511&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="200px" width="370px"/></a>
-  <a href="https://github.com/devesh2511/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devesh2511&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="200px" width="370px"/></a> -->
+ <summary style="text-align : center"><b>💻 GitHub Profile Stats</b>
    
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=pragyamahajan&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragyamahajan&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
-   </tr> 
-  <tr><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=pragyamahajan&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td></tr>
-</table>
+  <br/>
+<table align="center">
+  <tr align="center">
+    <td align="center"><img src="https://github-readme-stats-ouuan.vercel.app/api?username=pragyamahajan&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true&hide_border=true"  display=block width=90% height=auto  alt="1" > </td>
+   
+   <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pragyamahajan&theme=tokyonight&hide_border=true"  display=block width=90% height=auto alt="3" ></td>
+   </tr>
+   </table>
   <br/>
   </summary>
 
 <p align="center">
-<a href="https://github.com/pragyamahajan/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=pragyamahajan&theme=react-dark&area=true&hide_border=true" width="100%">
-</a>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pragyamahajan&theme=tokyonight" height=auto width=80%"  />  
 </p>
-
-- **[Detailed Stats](https://gitstats.me/pragyamahajan)**
